@@ -1,0 +1,53 @@
+html,body{
+    margin: 0;
+    padding: 0;    
+}
+.main_container{
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;    
+    text-align: center;
+}
+.main_container a img{
+    margin: 10rem 0;
+}
+h1{
+    font-family: 'Open Sans', sans-serif;
+    color: #ffffff;
+    text-align: center;
+}
+h4{
+    font-family: 'Open Sans', sans-serif;
+    color: rgba(255,255,255,0.9);
+    text-align: center;
+}
+.footer_bar{
+    margin: 0;
+    padding: 0;
+    background-color: rgba(255,255,255,0);
+    background-image: url('../images/khc_collage_design.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    padding-top: 40px;
+    padding-right: 3px;
+    padding-bottom: 40px;
+    padding-left: 3px;
+    border-top-width: 0px;
+    border-bottom-width: 0px;
+    border-color: #eae9e9;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-attachment: none;
+    position: fixed;
+    bottom: 0;
+    width: 100%;    
+}
+@media (max-width: 600px) {
+    .main_container a img{
+        width: 100%;
+        margin: 4rem 0;
+    }
+}

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>KHC Technologies OPC Private Limited</title>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+    <div class="main_container">
+        <a href="index.php"><img title="KHC Trademark Logo" src="images/logo_trademark.png" alt="Trademark Logo" srcset=""></a>
+    </div>
+    <footer class="footer_bar">
+        <h1>Whoops, We are migrating!</h1>        
+        <h4>Don't worry, we will be back soon.</h4>
+    </footer>     
+</body>
+</html>
