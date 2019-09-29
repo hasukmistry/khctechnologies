@@ -1,3 +1,3 @@
 # Following will pull the latest files from github
 updates:
-	git pull
+	$(shell git pull git@github.com:hasukmistry/khctechnologies.com.git master)
